@@ -1,0 +1,155 @@
+@font-face {
+    font-family:sourcecodepro-Regular 400;
+    src:url(../fonts/SourceCodePro-Regular.ttf);
+
+
+}
+body{
+    font-family:sourcecodepro-Regular 400;
+    letter-spacing:0.4px;
+    font-size:16px;
+}
+.topbar{
+    background-color:rgb(17, 141, 135);
+}
+.topbar ul li{
+    display:inline;
+    padding-right:30px;
+
+}
+.topbar ul li a{
+    color:#fff;
+    font-weight:600;
+
+}
+a{
+    text-decoration:none;
+}
+ul{
+    margin-bottom:0px;
+
+}
+.topbar ul{
+    padding:10px 0px;
+
+}
+.navbar img{
+    height:60px;
+    width:80px;
+}
+.nav-link{
+    color:black;
+    font-weight:600;
+    padding-right:25px;
+}
+.tinyslide img{
+    height:500px;
+}
+p{
+    text-align:justify;
+    line-height:28px;
+}
+.homecontent h1, .services h1,.offers-content h1{
+    font-size:30px;
+    text-align:center;
+    margin-bottom:30px;
+    
+
+}
+.homecontent span, .services span,.offers-content span{
+    color:rgb(34, 141, 132);
+}
+.services{
+    background-color:rgb(227, 237, 240);
+    padding:10px;
+}
+.services img{
+    height:50px;
+    width:50px;
+}
+.services h6{
+    padding-top:17px;
+    margin-left:5px;
+    color:black;
+    
+}
+.border-left{
+    border-left: 2px solid rgb(201, 42, 153);
+    margin-left:5px;
+    
+
+}
+.d-flex{
+    background-color: rgb(141, 141, 160);
+    margin-bottom:20px;
+    
+    
+}
+.aboutus-head, .services-head,.offers-head,.bookservices-head,.contact-head{
+    background-color:rgb(83, 81, 79);
+    padding:20px;
+
+}
+.aboutus-head h3, .services-head h3, .offers-head h3,.bookservices-head h3,.contact-head h3{
+    color:#fff;
+    text-align:center;
+
+}
+.aboutus-content,.aboutus-vision,.aboutus-mission{
+   padding:20px;
+    line-height: 30px;
+    
+}
+.aboutus-content p, .aboutus-vision p{
+    text-align: justify;
+}
+
+.aboutus-vision h5, .aboutus-mission h5{
+    color:rgb(18, 153, 158);
+
+}
+.offernum{
+    background-color:rgb(20, 88, 128);
+    color:#fff;
+    border-radius:50%;
+    padding:8px;
+   
+}
+input,textarea{
+    margin-bottom:25px;
+    height:40px;
+
+}
+textarea{
+    height:150px;
+}
+.bookservice-form{
+    padding:30px;
+    background-color:rgb(231, 253, 251);
+    margin-top:30px;
+}
+.topfooter{
+    background-color:rgb(17, 141, 135);
+    padding:40px 0px 20px;
+}
+footer{
+    color:#fff;
+    text-align:left;
+}
+footer ul li{
+   margin-bottom:20px;
+}
+footer ul li a{
+    color:#fff;
+}
+.bottom-footer{
+    background-color:rgb(8, 100, 96) ;
+    color:#fff;
+}
+.bottom-footer p{
+    padding-top:8px;
+}
+.bookservices-content img{
+    padding-top:80px;
+    height:400px;
+}
